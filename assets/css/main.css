@@ -1,0 +1,36 @@
+/* .vbox-content{
+    content: "ID: 1";
+    color: black;
+    font-size: 20px;
+    margin: 100px;
+} */
+
+
+.box-buy{
+    background: rgb(255, 255, 255);
+    padding: 20px 20px 0 20px !important;
+}
+.box-buy-1{
+    background: rgba(0, 0, 0, 0.035);
+    padding: 20px 20px 0 20px !important;
+}
+.buy-btn p{
+    color: black;
+    font-size: 19px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.buy-btn a{
+    margin: 10px 0;
+    border-radius: 30px;
+    padding:5px 10px ;
+    border:2px solid #f1b43b;
+    align-items: center;
+}
+
+.buy-btn a:hover{
+    background-color: #f1b43b;
+    color: white;
+    border:2px solid white;
+}

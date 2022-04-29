@@ -453,7 +453,7 @@ h1, h2, h3, h4, h5, h6 {
   background: url("../../bac/1618534496_47-p-fon-dver-52.jpg") top center;
   background-size: cover;
   position: relative;
-  margin-bottom: -200px;
+  /* margin-bottom: -200px; */
   
 }
 
@@ -779,8 +779,8 @@ section {
 }
 
 .about .video-box {
-  background: url("../../bac/door_5481543.jpg") center center no-repeat;
-  background-size: cover;
+  background: url("../../bac/Скриншот 30-04-2022 01.30.42.png") center center no-repeat;
+  background-size: contain;
   min-height: 500px;
 }
 
@@ -1445,7 +1445,7 @@ section {
 
 .gallery .gallery-item img {
   transition: all ease-in-out 0.4s;
-  height: 370px;
+  height: 330px;
   width: 100%;
 }
 
